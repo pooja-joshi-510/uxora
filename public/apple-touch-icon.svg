@@ -1,0 +1,23 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient180" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#8b5cf6;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#ec4899;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background with rounded corners -->
+  <rect x="0" y="0" width="180" height="180" rx="40" ry="40" fill="url(#gradient180)"/>
+  
+  <!-- Portfolio icon - stylized "P" -->
+  <path d="M56 45 L56 135 L68 135 L68 101 L101 101 L113 113 L113 67 L101 55 L68 55 L68 45 Z" fill="#ffffff"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="123" cy="56" r="8" fill="#ffffff" opacity="0.8"/>
+  <circle cx="135" cy="123" r="6" fill="#ffffff" opacity="0.6"/>
+  <circle cx="45" cy="135" r="4" fill="#ffffff" opacity="0.4"/>
+  
+  <!-- Additional accent -->
+  <circle cx="150" cy="30" r="3" fill="#ffffff" opacity="0.3"/>
+</svg>
